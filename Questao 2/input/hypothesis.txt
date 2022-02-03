@@ -1,0 +1,4 @@
+receitaranalgesico = sim
+gargantainflamada = sim
+receitarxarope = nao
+diagnostico = gripe

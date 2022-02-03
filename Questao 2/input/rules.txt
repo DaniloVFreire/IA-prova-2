@@ -1,0 +1,10 @@
+se dordecabeca = sim entao receitaranalgesico = sim
+se dordecabeca = sim e gargantainflamada = sim e tosse = sim entao diagnostico = gripe
+se cansaco = sim e dordecabeca = sim entao diagnostico = mononucleoseinfecciosa
+se cansaco = sim e gargantainflamada = sim entao diagnostico = amidalite
+se cansaco = sim entao diagnostico = estresse
+se cansaco = sim e tosse = sim entao diagnostico = covid
+se dordecabeca = sim e gargantainflamada = sim entao diagnostico = h3n2
+se tontura = sim e gargantainflamada = nao entao diagnostico = labirintite
+se gargantainflamada = sim entao receitarspray = sim
+se tosse = sim entao receitarxarope = sim
